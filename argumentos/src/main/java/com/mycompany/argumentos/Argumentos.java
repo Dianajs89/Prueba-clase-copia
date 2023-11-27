@@ -3,8 +3,6 @@
  */
 
 package com.mycompany.argumentos;
-
-
 public class Argumentos {
 
         public static void main(String[] args) {
